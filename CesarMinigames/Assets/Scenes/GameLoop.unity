@@ -751,6 +751,8 @@ MonoBehaviour:
   - {fileID: 11400000, guid: 0d14de2e41ddc884b98d45391c7188eb, type: 2}
   - {fileID: 11400000, guid: c0952065b8332d0459adf2037e793926, type: 2}
   - {fileID: 11400000, guid: 29da09112f4b5c24690fd6e4200e3258, type: 2}
+  - {fileID: 11400000, guid: 59ed6d01cd96d924dad30611961fa38e, type: 2}
+  - {fileID: 11400000, guid: 767c3714257401e4fa9c855e93000374, type: 2}
   miniGamesListHard:
   - {fileID: 11400000, guid: e213544b1c27a8d44bc76cbc91a9019b, type: 2}
   - {fileID: 11400000, guid: 650d3d92196bcc44ebfcb2d19422070c, type: 2}

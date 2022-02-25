@@ -1,0 +1,18 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 48b557985826bdb40b16690d512d99f9, type: 3}
+  m_Name: MarielaLollypotEasy
+  m_EditorClassIdentifier: 
+  LevelChallange: "\xA1Tira de la palanca!"
+  duration: 15
+  SceneName: LollypotEasy
+  levelSong: {fileID: 8300000, guid: 97067990cbd736c449e1afb6296253c9, type: 3}
